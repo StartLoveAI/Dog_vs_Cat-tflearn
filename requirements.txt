@@ -1,0 +1,5 @@
+tensorflow==1.12.0
+numpy==1.16.1
+tqdm==4.45.0
+matplotlib==3.2.0
+tflearn==0.3.2
